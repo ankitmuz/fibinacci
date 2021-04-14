@@ -1,0 +1,13 @@
+user=int(input("enter a number: "))
+i=1
+a,b=0,1
+print(a)
+while (i<=user):
+    
+    
+    c=a+b
+    print(c)
+    b=a
+    a=c
+    i=i+1
+    
